@@ -33,5 +33,6 @@ public class MazelkaNieChceSieWziacDoRooty
                 // nothing to see here
             }
         }
+        System.out.println("a moskal się wziął");
     }
 }
